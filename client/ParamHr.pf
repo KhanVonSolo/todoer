@@ -1,0 +1,12 @@
+-cpinternal 1250 
+-cpstream 1250 
+-convmap Convmaphr.cp 
+-cpcoll Croatian
+-d dmy
+-E
+-s 128
+-mmax 6500
+
+-db "C:\Work10\todoer\db\todoer.db"
+-1
+

@@ -1,0 +1,131 @@
+
+                Fri Jul 21 21:33:08 2023
+[2023/07/21@21:33:08.251+0200] P-4020       T-6168  I DBUTIL   : (451)   prostrct create session begin for zgane on CON:. 
+[2023/07/21@21:33:08.251+0200] P-4020       T-6168  I DBUTIL   : (12862) Structure file C:\Work10\todoer\db\todoer.st used to create database with blocksize 4096. 
+[2023/07/21@21:33:08.254+0200] P-4020       T-6168  I DBUTIL   : (334)   prostrct create session end. 
+[2023/07/21@21:33:08.264+0200] P-4020       T-6168  I DBUTIL   : (451)   procopy session begin for zgane on CON:. 
+[2023/07/21@21:33:08.282+0200] P-4020       T-6168  I DBUTIL   : (334)   procopy session end. 
+
+                Fri Jul 21 21:33:08 2023
+[2023/07/21@21:33:08.291+0200] P-4020       T-6168  I          : (451)   procopy get default SQL DBA session begin for zgane on CON:. 
+[2023/07/21@21:33:08.292+0200] P-4020       T-6168  I          : (15321) Before Image Log Initialization at block 0  offset 41857032. 
+[2023/07/21@21:33:08.322+0200] P-4020       T-6168  I          : (14867) Procopy -newinstance Created a new database GUID. 
+[2023/07/21@21:33:08.326+0200] P-4020       T-6168  I          : (15109) At Database close the number of live transactions is 0. 
+[2023/07/21@21:33:08.326+0200] P-4020       T-6168  I          : (15743) Before Image Log Completion at Block 0 Offset 1083. 
+[2023/07/21@21:33:08.326+0200] P-4020       T-6168  I          : (334)   procopy get default SQL DBA session end. 
+
+                Fri Jul 21 21:33:09 2023
+[2023/07/21@21:33:09.298+0200] P-8908       T-10188 I ABL      : (451)   Single-user session begin for zgane on CON:. 
+[2023/07/21@21:33:09.298+0200] P-8908       T-10188 I ABL      : (15321) Before Image Log Initialization at block 0  offset 1083. 
+[2023/07/21@21:33:09.300+0200] P-8908       T-10188 I ABL      : (12699) Database todoer Options:  
+[2023/07/21@21:40:21.075+0200] P-8908       T-10188 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/21@21:40:21.075+0200] P-8908       T-10188 I ABL      : (15743) Before Image Log Completion at Block 0 Offset 1143. 
+[2023/07/21@21:40:21.076+0200] P-8908       T-10188 I ABL      : (334)   Single-user session end. 
+
+                Fri Jul 21 21:40:47 2023
+[2023/07/21@21:40:47.920+0200] P-13464      T-1760  I ABL      : (451)   Single-user session begin for zgane on CON:. 
+[2023/07/21@21:40:47.921+0200] P-13464      T-1760  I ABL      : (15321) Before Image Log Initialization at block 0  offset 1143. 
+[2023/07/21@21:40:47.922+0200] P-13464      T-1760  I ABL      : (12699) Database todoer Options:  
+[2023/07/21@21:40:50.242+0200] P-13464      T-1760  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/21@21:40:50.242+0200] P-13464      T-1760  I ABL      : (15743) Before Image Log Completion at Block 0 Offset 1143. 
+[2023/07/21@21:40:50.243+0200] P-13464      T-1760  I ABL      : (334)   Single-user session end. 
+
+                Fri Jul 21 21:59:13 2023
+[2023/07/21@21:59:13.034+0200] P-2376       T-10776 I ABL      : (451)   Single-user session begin for zgane on CON:. 
+[2023/07/21@21:59:13.034+0200] P-2376       T-10776 I ABL      : (15321) Before Image Log Initialization at block 0  offset 1143. 
+[2023/07/21@21:59:13.036+0200] P-2376       T-10776 I ABL      : (12699) Database todoer Options:  
+[2023/07/21@22:59:02.195+0200] P-2376       T-10776 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/21@22:59:02.195+0200] P-2376       T-10776 I ABL      : (15743) Before Image Log Completion at Block 8 Offset 7325. 
+[2023/07/21@22:59:02.196+0200] P-2376       T-10776 I ABL      : (334)   Single-user session end. 
+
+                Fri Jul 21 22:59:05 2023
+[2023/07/21@22:59:05.477+0200] P-1876       T-9036  I ABL      : (451)   Single-user session begin for zgane on CON:. 
+[2023/07/21@22:59:05.477+0200] P-1876       T-9036  I ABL      : (15321) Before Image Log Initialization at block 8  offset 7325. 
+[2023/07/21@22:59:05.480+0200] P-1876       T-9036  I ABL      : (12699) Database todoer Options:  
+[2023/07/21@23:09:00.192+0200] P-1876       T-9036  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/21@23:09:00.192+0200] P-1876       T-9036  I ABL      : (15743) Before Image Log Completion at Block 8 Offset 7385. 
+[2023/07/21@23:09:00.193+0200] P-1876       T-9036  I ABL      : (334)   Single-user session end. 
+
+                Fri Jul 21 23:09:08 2023
+[2023/07/21@23:09:08.727+0200] P-14108      T-13792 I ABL      : (451)   Single-user session begin for zgane on CON:. 
+[2023/07/21@23:09:08.727+0200] P-14108      T-13792 I ABL      : (15321) Before Image Log Initialization at block 8  offset 7385. 
+[2023/07/21@23:09:08.729+0200] P-14108      T-13792 I ABL      : (12699) Database todoer Options:  
+[2023/07/21@23:09:26.685+0200] P-14108      T-13792 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/21@23:09:26.685+0200] P-14108      T-13792 I ABL      : (15743) Before Image Log Completion at Block 8 Offset 7385. 
+[2023/07/21@23:09:26.686+0200] P-14108      T-13792 I ABL      : (334)   Single-user session end. 
+
+                Fri Jul 21 23:09:43 2023
+[2023/07/21@23:09:43.325+0200] P-13784      T-8736  I ABL      : (451)   Single-user session begin for zgane on CON:. 
+[2023/07/21@23:09:43.326+0200] P-13784      T-8736  I ABL      : (15321) Before Image Log Initialization at block 8  offset 7385. 
+[2023/07/21@23:09:43.328+0200] P-13784      T-8736  I ABL      : (12699) Database todoer Options:  
+
+                Sat Jul 22 00:11:07 2023
+[2023/07/22@00:11:07.434+0200] P-13784      T-8736  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/22@00:11:07.434+0200] P-13784      T-8736  I ABL      : (15743) Before Image Log Completion at Block 9 Offset 2630. 
+[2023/07/22@00:11:07.434+0200] P-13784      T-8736  I ABL      : (334)   Single-user session end. 
+
+                Sat Jul 22 09:05:59 2023
+[2023/07/22@09:05:59.891+0200] P-8316       T-2232  I ABL      : (451)   Single-user session begin for zgane on CON:. 
+[2023/07/22@09:05:59.892+0200] P-8316       T-2232  I ABL      : (15321) Before Image Log Initialization at block 9  offset 2630. 
+[2023/07/22@09:05:59.903+0200] P-8316       T-2232  I ABL      : (12699) Database todoer Options:  
+[2023/07/22@13:19:04.058+0200] P-8316       T-2232  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/22@13:19:04.058+0200] P-8316       T-2232  I ABL      : (15743) Before Image Log Completion at Block 10 Offset 6841. 
+[2023/07/22@13:19:04.059+0200] P-8316       T-2232  I ABL      : (334)   Single-user session end. 
+
+                Sat Jul 22 13:19:07 2023
+[2023/07/22@13:19:07.976+0200] P-6580       T-9660  I ABL      : (451)   Single-user session begin for zgane on CON:. 
+[2023/07/22@13:19:07.976+0200] P-6580       T-9660  I ABL      : (15321) Before Image Log Initialization at block 10  offset 6841. 
+[2023/07/22@13:19:07.978+0200] P-6580       T-9660  I ABL      : (12699) Database todoer Options:  
+[2023/07/22@13:50:38.108+0200] P-6580       T-9660  I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/22@13:50:38.108+0200] P-6580       T-9660  I ABL      : (15743) Before Image Log Completion at Block 10 Offset 6901. 
+[2023/07/22@13:50:38.109+0200] P-6580       T-9660  I ABL      : (334)   Single-user session end. 
+
+                Sat Jul 22 13:50:45 2023
+[2023/07/22@13:50:45.183+0200] P-8176       T-11440 I ABL      : (451)   Single-user session begin for zgane on CON:. 
+[2023/07/22@13:50:45.183+0200] P-8176       T-11440 I ABL      : (15321) Before Image Log Initialization at block 10  offset 6901. 
+[2023/07/22@13:50:45.185+0200] P-8176       T-11440 I ABL      : (12699) Database todoer Options:  
+[2023/07/22@15:00:53.394+0200] P-8176       T-11440 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/22@15:00:53.394+0200] P-8176       T-11440 I ABL      : (15743) Before Image Log Completion at Block 10 Offset 6961. 
+[2023/07/22@15:00:53.395+0200] P-8176       T-11440 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul 24 08:25:05 2023
+[2023/07/24@08:25:05.296+0200] P-22012      T-22008 I ABL      : (451)   Single-user session begin for admin-rpr on CON:. 
+[2023/07/24@08:25:05.312+0200] P-22012      T-22008 I ABL      : (15321) Before Image Log Initialisation at block 10  offset 6961. 
+[2023/07/24@08:25:05.316+0200] P-22012      T-22008 I ABL      : (12699) Database todoer Options:  
+[2023/07/24@09:55:21.593+0200] P-22012      T-22008 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/24@09:55:21.593+0200] P-22012      T-22008 I ABL      : (15743) Before Image Log Completion at Block 11 Offset 738. 
+[2023/07/24@09:55:21.593+0200] P-22012      T-22008 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul 24 09:55:27 2023
+[2023/07/24@09:55:27.523+0200] P-20120      T-22104 I ABL      : (451)   Single-user session begin for admin-rpr on CON:. 
+[2023/07/24@09:55:27.523+0200] P-20120      T-22104 I ABL      : (15321) Before Image Log Initialisation at block 11  offset 738. 
+[2023/07/24@09:55:27.539+0200] P-20120      T-22104 I ABL      : (12699) Database todoer Options:  
+
+                Mon Jul 24 13:01:55 2023
+[2023/07/24@13:01:55.452+0200] P-11204      T-22880 I ABL      : (451)   Single-user session begin for admin-rpr on CON:. 
+[2023/07/24@13:01:55.452+0200] P-11204      T-22880 I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2023/07/24@13:01:55.452+0200] P-11204      T-22880 I ABL      : (7161)  Physical Redo Phase Completed at blk 12 off 4245 upd 96. 
+[2023/07/24@13:01:55.452+0200] P-11204      T-22880 I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2023/07/24@13:01:55.452+0200] P-11204      T-22880 I ABL      : (12699) Database todoer Options:  
+
+                Mon Jul 24 13:02:22 2023
+[2023/07/24@13:02:22.334+0200] P-17692      T-6520  I ABL      : (451)   Single-user session begin for admin-rpr on CON:. 
+[2023/07/24@13:02:22.334+0200] P-17692      T-6520  I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2023/07/24@13:02:22.334+0200] P-17692      T-6520  I ABL      : (7161)  Physical Redo Phase Completed at blk 12 off 4245 upd 95. 
+[2023/07/24@13:02:22.334+0200] P-17692      T-6520  I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2023/07/24@13:02:22.334+0200] P-17692      T-6520  I ABL      : (12699) Database todoer Options:  
+
+                Mon Jul 24 13:03:27 2023
+[2023/07/24@13:03:27.432+0200] P-11784      T-11916 I ABL      : (451)   Single-user session begin for admin-rpr on CON:. 
+[2023/07/24@13:03:27.433+0200] P-11784      T-11916 I ABL      : (5326)  Begin Physical Redo Phase at 0 . 
+[2023/07/24@13:03:27.433+0200] P-11784      T-11916 I ABL      : (7161)  Physical Redo Phase Completed at blk 12 off 4245 upd 95. 
+[2023/07/24@13:03:27.433+0200] P-11784      T-11916 I ABL      : (13547) At end of Physical redo, transaction table size is 1. 
+[2023/07/24@13:03:27.434+0200] P-11784      T-11916 I ABL      : (12699) Database todoer Options:  
+[2023/07/24@14:52:41.213+0200] P-11784      T-11916 I ABL      : (15109) At Database close the number of live transactions is 0. 
+[2023/07/24@14:52:41.213+0200] P-11784      T-11916 I ABL      : (15743) Before Image Log Completion at Block 13 Offset 6289. 
+[2023/07/24@14:52:41.213+0200] P-11784      T-11916 I ABL      : (334)   Single-user session end. 
+
+                Mon Jul 24 14:52:44 2023
+[2023/07/24@14:52:44.847+0200] P-22840      T-5928  I ABL      : (451)   Single-user session begin for admin-rpr on CON:. 
+[2023/07/24@14:52:44.847+0200] P-22840      T-5928  I ABL      : (15321) Before Image Log Initialisation at block 13  offset 6289. 
+[2023/07/24@14:52:44.848+0200] P-22840      T-5928  I ABL      : (12699) Database todoer Options:  

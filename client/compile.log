@@ -1,0 +1,29 @@
+10:22:18 Looking for *.w in C:\Work10\shop1337\programs
+Compiling addEmployee.w
+** "crystal.inc.i" was not found. (293)
+** C:\Work10\shop1337\programs\addEmployee.w Could not understand line 41. (193)
+** Unknown Field or Variable name - hUtility. (201)
+** C:\Work10\shop1337\programs\addEmployee.w Could not understand line 266. (196)
+Compiling mainMenu.w
+Unknown or ambiguous table ProgUser. (725)
+** C:\Work10\shop1337\programs\mainMenu.w Could not understand line 311. (196)
+10:22:18 Looking for admin\*.w in C:\Work10\shop1337\programs
+Compiling admin\addDept.w
+Compiling admin\addemployee.w
+Compiling admin\addItem.w
+Compiling admin\addState.w
+Compiling admin\adminMenu.w
+Compiling admin\editEmployee.w
+Compiling admin\emp.w
+Compiling admin\empMenu.w
+Compiling admin\itemAdd.w
+Compiling admin\selectEmployee.w
+10:22:19 Looking for *.p in C:\Work10\shop1337\programs
+Compiling addCPUscript.p
+Compiling btnLogin.p
+** Unknown Field or Variable name - fillUser. (201)
+** C:\Work10\shop1337\programs\btnLogin.p Could not understand line 7. (196)
+Compiling ddw.p
+10:22:19 Looking for admin\*.p in C:\Work10\shop1337\programs
+10:22:19 Looking for *.cls in C:\Work10\shop1337\programs
+10:22:19 Looking for admin\*.cls in C:\Work10\shop1337\programs
